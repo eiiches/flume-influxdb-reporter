@@ -14,7 +14,7 @@ Configuration
 -------------
 
 | Property Name | Default | Description |
-|---------------------------------------|
+|---------------|---------|-------------|
 | **type** | - | The component type name, has to be `net.thisptr.flume.reporter.influxdb.InfluxDBReporter` |
 | **servers** | - | Comma-separated list `of hostname:port` of InfluxDB servers |
 | **database** | - | The name of the database to store metrics. The database is automatically created if not exists. |

@@ -1,6 +1,8 @@
 flume-influxdb-reporter
 =======================
 
+[DEPRECATED] Use [java-influxdb-metrics-agent](http://github.com/eiiches/java-influxdb-metrics-agent) instead. It has the same features, but is more generic and can be used with any JVM-based applications.
+
 Apache Flume plugin for collecting and reporting metrics to InfluxDB
 
 Installation
